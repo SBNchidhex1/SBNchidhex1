@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Monday Joseph 👋
 
-<!--
-**SBNchidhex1/SBNchidhex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Content Writer | Digital Marketer | AI Training**
+📍 Anambra State, Nigeria · 🌍 Remote · 🕐 WAT (UTC+1)
 
-Here are some ideas to get you started:
+I analyze data, write clear and accurate content, and run digital marketing campaigns. I'm looking for remote AI project work such as data analysis, content evaluation, writing and research tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- **Data analysis:** campaign performance, dashboards and reports that improve ROI and decision-making
+- **Writing and content:** 80+ articles, blog posts and LinkedIn pieces ghost-written for Web3 and business clients
+- **Digital marketing:** SEO, social media, email and NFT marketing campaigns
+- **Web3 coaching:** mentored 150+ people on Web3, blockchain and NFT opportunities
+
+## Skills
+
+**Data:** Excel · Google Sheets · Looker Studio · Data Visualization · Basic Python
+**Marketing:** Google Analytics · Google Ads · Meta Ads Manager · SEMrush · Ahrefs · Mailchimp
+**Content:** SEO Writing · Content Strategy · Editing · Research
+**Other:** HTML · CSS · WordPress · Basic JavaScript · Canva
+
+## Education
+
+B.Sc. Business Administration, Nnamdi Azikiwe University (UNIZIK), 2016 – 2020
+
+## Let's connect
+
+📧 sbnchidhex@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/monday-joseph-67b0b8367)
